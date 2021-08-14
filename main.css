@@ -16,6 +16,12 @@ p {
   min-width: 500px;
 }
 
+.profilepic {
+  float:  right;
+}
+.bodytext {
+  float:  left;
+}
 
 .btn.btn-primary {
   border-radius: 2px;
