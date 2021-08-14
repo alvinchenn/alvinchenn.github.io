@@ -3,9 +3,6 @@ html, body {
   margin: 0;
   width: 100%;
   height: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 h1 {
   font-size: 48px;
@@ -18,9 +15,15 @@ p {
 
 .profilepic {
   float:  right;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .bodytext {
   float:  left;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .btn.btn-primary {
