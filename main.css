@@ -14,13 +14,11 @@ p {
 }
 
 .profilepic {
-  float:  right;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .bodytext {
-  float:  left;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
