@@ -1,8 +1,5 @@
 html, body {
   font-family: sans-serif;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   width:  80%;
 }
 h1 {
@@ -11,13 +8,10 @@ h1 {
 
 p {
   max-width: 65%;
-  min-width: 500px;
 }
 
 .profilepic {
   position:  relative;
-  top: 20px;
-  left:  40px;
 }
 .bodytext {
   position:  relative;
