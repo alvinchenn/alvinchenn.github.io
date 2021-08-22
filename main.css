@@ -1,6 +1,6 @@
 html, body {
   font-family: sans-serif;
-  width:  80%;
+  
 }
 h1 {
   font-size: 48px;
@@ -10,7 +10,11 @@ p {
   max-width: 65%;
 }
 
-.profilepic {
+#contents {
+  width:  80%;
+}
+
+#profilepic {
   position:  relative;
   width:  50%;
 }
